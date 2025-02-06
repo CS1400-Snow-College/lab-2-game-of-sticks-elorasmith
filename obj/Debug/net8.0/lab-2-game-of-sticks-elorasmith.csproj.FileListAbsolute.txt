@@ -1,0 +1,15 @@
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\bin\Debug\net8.0\lab-2-game-of-sticks-elorasmith.exe
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\bin\Debug\net8.0\lab-2-game-of-sticks-elorasmith.deps.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\bin\Debug\net8.0\lab-2-game-of-sticks-elorasmith.runtimeconfig.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\bin\Debug\net8.0\lab-2-game-of-sticks-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\bin\Debug\net8.0\lab-2-game-of-sticks-elorasmith.pdb
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\lab-2-game-of-sticks-elorasmith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\lab-2-game-of-sticks-elorasmith.AssemblyInfoInputs.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\lab-2-game-of-sticks-elorasmith.AssemblyInfo.cs
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\lab-2-game-of-sticks-elorasmith.csproj.CoreCompileInputs.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\lab-2-game-of-sticks-elorasmith.sourcelink.json
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\lab-2-game-of-sticks-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\refint\lab-2-game-of-sticks-elorasmith.dll
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\lab-2-game-of-sticks-elorasmith.pdb
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\lab-2-game-of-sticks-elorasmith.genruntimeconfig.cache
+C:\Users\14358\OneDrive\Desktop\code\my-code-dir\lab-2-game-of-sticks-elorasmith\obj\Debug\net8.0\ref\lab-2-game-of-sticks-elorasmith.dll
